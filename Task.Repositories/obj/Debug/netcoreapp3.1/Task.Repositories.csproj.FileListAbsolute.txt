@@ -1,0 +1,30 @@
+D:\Task\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.deps.json
+D:\Task\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.runtimeconfig.json
+D:\Task\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.runtimeconfig.dev.json
+D:\Task\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\Task\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\Task\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\Task\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.csprojAssemblyReference.cache
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.AssemblyInfoInputs.cache
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.AssemblyInfo.cs
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.csproj.CoreCompileInputs.cache
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.csproj.CopyComplete
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\Task\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.genruntimeconfig.cache
+D:\New folder\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.deps.json
+D:\New folder\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.runtimeconfig.json
+D:\New folder\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.runtimeconfig.dev.json
+D:\New folder\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\New folder\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\New folder\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\New folder\Task\Task.Repositories\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.csprojAssemblyReference.cache
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.AssemblyInfoInputs.cache
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.AssemblyInfo.cs
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.csproj.CoreCompileInputs.cache
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.csproj.CopyComplete
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\New folder\Task\Task.Repositories\obj\Debug\netcoreapp3.1\Task.Repositories.genruntimeconfig.cache

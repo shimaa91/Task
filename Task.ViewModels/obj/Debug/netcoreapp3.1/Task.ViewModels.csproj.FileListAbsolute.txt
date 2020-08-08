@@ -1,0 +1,30 @@
+D:\Task\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.deps.json
+D:\Task\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.runtimeconfig.json
+D:\Task\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.runtimeconfig.dev.json
+D:\Task\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\Task\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\Task\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\Task\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.csprojAssemblyReference.cache
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.AssemblyInfoInputs.cache
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.AssemblyInfo.cs
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.csproj.CoreCompileInputs.cache
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.csproj.CopyComplete
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\Task\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.genruntimeconfig.cache
+D:\New folder\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.deps.json
+D:\New folder\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.runtimeconfig.json
+D:\New folder\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.runtimeconfig.dev.json
+D:\New folder\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\New folder\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\New folder\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\New folder\Task\Task.ViewModels\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.csprojAssemblyReference.cache
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.AssemblyInfoInputs.cache
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.AssemblyInfo.cs
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.csproj.CoreCompileInputs.cache
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.csproj.CopyComplete
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\New folder\Task\Task.ViewModels\obj\Debug\netcoreapp3.1\Task.ViewModels.genruntimeconfig.cache

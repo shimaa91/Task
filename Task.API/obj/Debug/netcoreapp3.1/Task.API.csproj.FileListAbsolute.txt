@@ -1,0 +1,331 @@
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.exe
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.deps.json
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.runtimeconfig.json
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.runtimeconfig.dev.json
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.pdb
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.ServiceCollection.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Services.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Services.pdb
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\Task\Task\Task.API\bin\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.csprojAssemblyReference.cache
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.AssemblyInfoInputs.cache
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.AssemblyInfo.cs
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.csproj.CoreCompileInputs.cache
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.RazorTargetAssemblyInfo.cache
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.csproj.CopyComplete
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.dll
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.pdb
+D:\Task\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.genruntimeconfig.cache
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.csprojAssemblyReference.cache
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.AssemblyInfoInputs.cache
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.AssemblyInfo.cs
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.csproj.CoreCompileInputs.cache
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.exe
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.deps.json
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.runtimeconfig.json
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.runtimeconfig.dev.json
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.API.pdb
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.ServiceCollection.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Services.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Services.pdb
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\New folder\Task\Task.API\bin\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.RazorTargetAssemblyInfo.cache
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.csproj.CopyComplete
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.dll
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.pdb
+D:\New folder\Task\Task.API\obj\Debug\netcoreapp3.1\Task.API.genruntimeconfig.cache

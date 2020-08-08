@@ -1,0 +1,38 @@
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.deps.json
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.runtimeconfig.json
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.runtimeconfig.dev.json
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.dll
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.pdb
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\Task\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.csprojAssemblyReference.cache
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.AssemblyInfoInputs.cache
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.AssemblyInfo.cs
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.csproj.CoreCompileInputs.cache
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.csproj.CopyComplete
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.dll
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.pdb
+D:\Task\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.genruntimeconfig.cache
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.csprojAssemblyReference.cache
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.AssemblyInfoInputs.cache
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.AssemblyInfo.cs
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.csproj.CoreCompileInputs.cache
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.deps.json
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.runtimeconfig.json
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.runtimeconfig.dev.json
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.dll
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Services.pdb
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Repositories.dll
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.ViewModels.dll
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Repositories.pdb
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.ViewModels.pdb
+D:\New folder\Task\Task.Services\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.csproj.CopyComplete
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.dll
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.pdb
+D:\New folder\Task\Task.Services\obj\Debug\netcoreapp3.1\Task.Services.genruntimeconfig.cache

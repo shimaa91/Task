@@ -1,0 +1,24 @@
+D:\Task\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.deps.json
+D:\Task\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.runtimeconfig.json
+D:\Task\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.runtimeconfig.dev.json
+D:\Task\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\Task\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\Task\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.csprojAssemblyReference.cache
+D:\Task\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.AssemblyInfoInputs.cache
+D:\Task\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.AssemblyInfo.cs
+D:\Task\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.csproj.CoreCompileInputs.cache
+D:\Task\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.dll
+D:\Task\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.pdb
+D:\Task\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.genruntimeconfig.cache
+D:\New folder\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.deps.json
+D:\New folder\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.runtimeconfig.json
+D:\New folder\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.runtimeconfig.dev.json
+D:\New folder\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.dll
+D:\New folder\Task\Task.Data\bin\Debug\netcoreapp3.1\Task.Data.pdb
+D:\New folder\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.csprojAssemblyReference.cache
+D:\New folder\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.AssemblyInfoInputs.cache
+D:\New folder\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.AssemblyInfo.cs
+D:\New folder\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.csproj.CoreCompileInputs.cache
+D:\New folder\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.dll
+D:\New folder\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.pdb
+D:\New folder\Task\Task.Data\obj\Debug\netcoreapp3.1\Task.Data.genruntimeconfig.cache
